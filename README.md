@@ -1,15 +1,18 @@
 # 香港政府公文寫作手冊
 
-<!-- https://www.csb.gov.hk/tc_chi/publications_stat/publication/2707.html -->
+*Guidebooks on Official Chinese Writing*
 
-- 總論（第三版）
-- 公函（第三版）
-- 酬酢信（第三版）
-- 禮儀文書（第三版）
-- 便箋（第三版）
-- 通告類文書（第二版）
-- 會議文書（第二版）
-- 錄事（第二版）
+<!-- https://www.csb.gov.hk/tc_chi/publications_stat/publication/2707.html -->
+<!-- https://www.csb.gov.hk/english/publications_stat/publication/2707.html -->
+
+- 總論（第三版） *General Principles*
+- 公函（第三版） *Official Correspondence*
+- 酬酢信（第三版） *Letters for Social Occasions*
+- 禮儀文書（第三版） *Ceremonial Writing*
+- 便箋（第三版） *Memoranda*
+- 通告類文書（第二版） *Circulars and Notices*
+- 會議文書（第二版） *Documents for Meetings*
+- 錄事（第二版） *File Minutes*
 
 ## 第三版（2019起）
 
